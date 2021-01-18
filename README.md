@@ -5,7 +5,7 @@ A machine learning model that extracts the most relevant features from faulty da
 
 PERFORMANCE
 
-The performance is calculated by f1_macro and roc_auc. The model architecture consists of data Preprocessing, Filter based, Wrapper based and Embedded based Feature Selection methods. The final layer of the model outputs the Cross Vlidation reports which show that f1_macro and roc_auc of each faulty dataset using Rndom Forest Classifier.
+The performance is calculated by f1_macro and roc_auc. The model architecture consists of data Preprocessing, Filter based, Wrapper based and Embedded based Feature Selection methods. The final layer of the model outputs the Cross Vlidation reports which show that f1_macro and roc_auc of each faulty dataset using Random Forest Classifier.
 
 Requirements
            -Anaconds
